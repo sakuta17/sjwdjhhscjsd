@@ -1,4 +1,6 @@
 https://github.com/sarasrija/SportSystem.git
+https://github.com/archanareddyse/OLTRS.git
+
 SOFTWARE ENGINEERING LAB EXTERNAL – COMPLETE 
 
 1. SRS (SOFTWARE REQUIREMENTS SPECIFICATION)
